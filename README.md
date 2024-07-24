@@ -1,6 +1,6 @@
-# Flutter Basics
+# Elemes Movie DB
 
-Elemes Movie DB
+Simple application for movie database
 
 ---
 
